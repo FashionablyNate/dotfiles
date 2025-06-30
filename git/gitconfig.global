@@ -1,0 +1,7 @@
+[core]
+    editor = helix
+[color]
+    ui = auto
+[diff]
+    tool = vimdiff
+

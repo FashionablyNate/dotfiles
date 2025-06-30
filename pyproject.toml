@@ -1,0 +1,17 @@
+[project]
+name = "dotfiles"
+version = "0.1.0"
+description = "Modular dotfiles installer with multiple config modules"
+authors = [
+  { name = "Nathan Spelts", email = "nate@nathanspelts.com" }
+]
+readme = "README.md"
+requires-python = ">=3.7"
+license = { text = "MIT" }
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project.scripts]
+dotfiles-install = "install:main"

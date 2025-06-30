@@ -1,0 +1,8 @@
+[user]
+    name = Nathan Spelts
+    email = nate@nathanspelts.com
+    signingkey = 2E16BE1BA03DBDF0
+[commit]
+    gpgsign = true
+[gpg]
+    program = gpg

@@ -6,8 +6,8 @@
     tool = vimdiff
 
 [user]
-    name = Nathan Spelts
-    email = nate@nathanspelts.com
+    name = Your Name
+    email = your.email@example.com
     signingkey = 2E16BE1BA03DBDF0
 [commit]
     gpgsign = true

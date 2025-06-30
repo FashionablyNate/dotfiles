@@ -26,3 +26,4 @@ alias ll="exa -la"
 unalias grep
 alias grep="rg"
 alias make="make -j"
+alias find="fd"

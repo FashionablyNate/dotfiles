@@ -3,7 +3,6 @@ theme = "gruvbox"
 [editor]
 line-number = "relative"
 mouse = false
-continue-comments = false
 auto-pairs = false
 
 [editor.cursor-shape]

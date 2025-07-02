@@ -27,3 +27,4 @@ unalias grep
 alias grep="rg"
 alias make="make -j"
 alias find="fd"
+export PATH="$PATH:/home/nate/.cargo/bin"

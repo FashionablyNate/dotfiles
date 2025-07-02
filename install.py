@@ -12,7 +12,7 @@ def main():
     name = input("Enter your real name for git: ")
     email = input("Enter you email for git: ")
 
-    git_install.GitConfigInstaller("Your Name", "your.email@example.com").install()
+    git_install.GitConfigInstaller(name, email).install()
     helix_install.install()
     wezterm_install.install()
 
